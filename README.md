@@ -19,7 +19,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Improve the UI / UX of your app including icons, styling, color, spacing of your app.
+* [ ] Improve style of the todo items in the list using a custom adapter
 
 ## Video Walkthrough
 
@@ -27,15 +28,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ShareX](https://getsharex.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing RelativeLayout was difficult at first.
 
 ## License
 
-    Copyright [2021] [Michael Christensen]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
